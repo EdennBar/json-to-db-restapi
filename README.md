@@ -30,3 +30,8 @@ Run the FastAPI Application:
 uvicorn main:app --reload
 
 🌐 Access the API Documentation: http://localhost:8000/docs
+![Screenshot 2024-01-11 at 23 15 14](https://github.com/EdennBar/json-to-db-restapi/assets/88652432/9160cd26-4f27-4cbb-b31e-882ae74e313d)
+
+
+![Screenshot 2024-01-11 at 23 15 51](https://github.com/EdennBar/json-to-db-restapi/assets/88652432/6add813a-5db1-47ac-8e1c-1c9051763caf)
+![Screenshot 2024-01-11 at 23 16 15](https://github.com/EdennBar/json-to-db-restapi/assets/88652432/d669d5d7-94d6-4194-9d63-009e06a6c323)
